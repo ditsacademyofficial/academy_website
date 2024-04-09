@@ -1,0 +1,7 @@
+.img-blog-header {
+    border-color: #28a745;
+    background-image: url("../img/blogs-bg.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+  }
